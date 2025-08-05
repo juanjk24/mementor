@@ -1,0 +1,250 @@
+[
+  {
+    "prompt": "Crea una presentación de 10 diapositivas sobre la energía solar para estudiantes de secundaria.",
+    "categoria": "presentaciones",
+    "ias": [
+      {
+        "nombre": "Gamma App",
+        "url": "https://gamma.app/"
+      },
+      {
+        "nombre": "Tome",
+        "url": "https://tome.app/"
+      }
+    ]
+  },
+  {
+    "prompt": "Resume este artículo académico en 3 párrafos y luego crea un resumen ejecutivo.",
+    "categoria": "resumen de textos",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "nombre": "Claude",
+        "url": "https://claude.ai/"
+      }
+    ]
+  },
+  {
+    "prompt": "Escribe un correo profesional para solicitar una reunión con un potencial cliente.",
+    "categoria": "escritura profesional",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "nombre": "Notion AI",
+        "url": "https://www.notion.so/product/ai"
+      }
+    ]
+  },
+  {
+    "prompt": "Crea un guion para un video de TikTok de 30 segundos explicando qué es la inflación.",
+    "categoria": "marketing y redes sociales",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "nombre": "Copy.ai",
+        "url": "https://www.copy.ai/"
+      }
+    ]
+  },
+  {
+    "prompt": "Genera un plan de comidas saludable para 7 días para una persona vegana.",
+    "categoria": "salud y nutrición",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  },
+  {
+    "prompt": "Diseña una base de datos para una tienda en línea con productos, usuarios y pedidos.",
+    "categoria": "desarrollo de software",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "nombre": "GitHub Copilot",
+        "url": "https://github.com/features/copilot"
+      }
+    ]
+  },
+  {
+    "prompt": "Haz un análisis SWOT para una empresa de cafés artesanales.",
+    "categoria": "negocios y estrategia",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  },
+  {
+    "prompt": "Explica el código siguiente en términos sencillos y detecta posibles errores.",
+    "categoria": "análisis de código",
+    "ias": [
+      {
+        "nombre": "Code Interpreter (ChatGPT Plus)",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "nombre": "Phind",
+        "url": "https://phind.com/"
+      }
+    ]
+  },
+  {
+    "prompt": "Genera una imagen de un zorro con armadura samurái en un bosque nevado, estilo anime.",
+    "categoria": "generación de imágenes",
+    "ias": [
+      {
+        "nombre": "DALL·E",
+        "url": "https://openai.com/dall-e"
+      },
+      {
+        "nombre": "Leonardo AI",
+        "url": "https://leonardo.ai/"
+      }
+    ]
+  },
+  {
+    "prompt": "Simula una entrevista de trabajo para un puesto de desarrollador backend.",
+    "categoria": "simulación y entrevistas",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  },
+  {
+    "prompt": "Genera un plan de estudio de 30 días para aprender JavaScript desde cero.",
+    "categoria": "educación",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      },
+      {
+        "nombre": "Notion AI",
+        "url": "https://www.notion.so/product/ai"
+      }
+    ]
+  },
+  {
+    "prompt": "Convierte este texto informal en un comunicado oficial de prensa.",
+    "categoria": "reformulación de texto",
+    "ias": [
+      {
+        "nombre": "Wordtune",
+        "url": "https://www.wordtune.com/"
+      },
+      {
+        "nombre": "Jasper AI",
+        "url": "https://www.jasper.ai/"
+      }
+    ]
+  },
+  {
+    "prompt": "Crea un dashboard interactivo con Python y Streamlit usando este archivo CSV.",
+    "categoria": "análisis de datos",
+    "ias": [
+      {
+        "nombre": "ChatGPT (Code Interpreter)",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  },
+  {
+    "prompt": "Genera 5 ideas de negocio rentables para estudiantes universitarios en Latinoamérica.",
+    "categoria": "emprendimiento",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  },
+  {
+    "prompt": "Crea una historia corta de ciencia ficción con un giro inesperado al final.",
+    "categoria": "escritura creativa",
+    "ias": [
+      {
+        "nombre": "Sudowrite",
+        "url": "https://www.sudowrite.com/"
+      },
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  },
+  {
+    "prompt": "Crea un contrato simple de prestación de servicios para un diseñador freelance.",
+    "categoria": "legal",
+    "ias": [
+      {
+        "nombre": "DoNotPay",
+        "url": "https://donotpay.com/"
+      },
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  },
+  {
+    "prompt": "Convierte este conjunto de datos en un gráfico de líneas con anotaciones.",
+    "categoria": "visualización de datos",
+    "ias": [
+      {
+        "nombre": "ChatGPT (Code Interpreter)",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  },
+  {
+    "prompt": "Escribe 3 versiones alternativas de este slogan para una marca de ropa urbana.",
+    "categoria": "branding y copywriting",
+    "ias": [
+      {
+        "nombre": "Copy.ai",
+        "url": "https://www.copy.ai/"
+      },
+      {
+        "nombre": "Jasper AI",
+        "url": "https://www.jasper.ai/"
+      }
+    ]
+  },
+  {
+    "prompt": "Haz una lista con los pros y contras de migrar a Canadá como programador.",
+    "categoria": "vida y decisiones personales",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  },
+  {
+    "prompt": "Haz un análisis semántico de este texto y detecta sesgos de género.",
+    "categoria": "análisis lingüístico",
+    "ias": [
+      {
+        "nombre": "ChatGPT",
+        "url": "https://chat.openai.com/"
+      }
+    ]
+  }
+]
