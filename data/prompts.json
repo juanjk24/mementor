@@ -1,250 +1,79 @@
 [
   {
-    "prompt": "Crea una presentación de 10 diapositivas sobre la energía solar para estudiantes de secundaria.",
-    "categoria": "presentaciones",
+    "prompt": "Crea una presentación de 10 diapositivas interactivas sobre energía solar dirigida a estudiantes de secundaria, incluyendo ejemplos visuales y datos actuales.",
+    "categorias": ["presentaciones", "educación", "contenido visual"],
     "ias": [
-      {
-        "nombre": "Gamma App",
-        "url": "https://gamma.app/"
-      },
-      {
-        "nombre": "Tome",
-        "url": "https://tome.app/"
-      }
+        {"nombre": "Gamma App", "url": "https://gamma.app/"},
+        {"nombre": "Tome", "url": "https://tome.app/"}
     ]
   },
   {
-    "prompt": "Resume este artículo académico en 3 párrafos y luego crea un resumen ejecutivo.",
-    "categoria": "resumen de textos",
+    "prompt": "Resume el siguiente artículo académico en tres párrafos, luego elabora un resumen ejecutivo de una sola página y una versión en viñetas para redes sociales.",
+    "categorias": ["resumen de textos", "escritura profesional", "marketing y redes sociales"],
     "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      },
-      {
-        "nombre": "Claude",
-        "url": "https://claude.ai/"
-      }
+        {"nombre": "ChatGPT", "url": "https://chat.openai.com/"},
+        {"nombre": "Claude", "url": "https://claude.ai/"}
     ]
   },
   {
-    "prompt": "Escribe un correo profesional para solicitar una reunión con un potencial cliente.",
-    "categoria": "escritura profesional",
+    "prompt": "Redacta un correo profesional solicitando una reunión con un cliente potencial, incluyendo una propuesta de agenda y tono persuasivo.",
+    "categorias": ["escritura profesional", "negocios y estrategia"],
     "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      },
-      {
-        "nombre": "Notion AI",
-        "url": "https://www.notion.so/product/ai"
-      }
+        {"nombre": "ChatGPT", "url": "https://chat.openai.com/"},
+        {"nombre": "Notion AI", "url": "https://www.notion.so/product/ai"}
     ]
   },
   {
-    "prompt": "Crea un guion para un video de TikTok de 30 segundos explicando qué es la inflación.",
-    "categoria": "marketing y redes sociales",
+    "prompt": "Escribe el guion para un video de TikTok de 30 segundos que explique de manera divertida y clara qué es la inflación, usando ejemplos cotidianos.",
+    "categorias": ["marketing y redes sociales", "educación", "escritura creativa"],
     "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      },
-      {
-        "nombre": "Copy.ai",
-        "url": "https://www.copy.ai/"
-      }
+        {"nombre": "ChatGPT", "url": "https://chat.openai.com/"},
+        {"nombre": "Copy.ai", "url": "https://www.copy.ai/"}
     ]
   },
   {
-    "prompt": "Genera un plan de comidas saludable para 7 días para una persona vegana.",
-    "categoria": "salud y nutrición",
+    "prompt": "Diseña un plan de comidas equilibrado para 7 días dirigido a personas veganas, incluyendo recetas fáciles y valores nutricionales aproximados.",
+    "categorias": ["salud y nutrición", "planificación"],
     "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      }
+        {"nombre": "ChatGPT", "url": "https://chat.openai.com/"}
     ]
   },
   {
-    "prompt": "Diseña una base de datos para una tienda en línea con productos, usuarios y pedidos.",
-    "categoria": "desarrollo de software",
+    "prompt": "Diseña la estructura de una base de datos relacional para una tienda online que incluya productos, usuarios, métodos de pago, y pedidos.",
+    "categorias": ["desarrollo de software", "modelado de datos"],
     "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      },
-      {
-        "nombre": "GitHub Copilot",
-        "url": "https://github.com/features/copilot"
-      }
+        {"nombre": "ChatGPT", "url": "https://chat.openai.com/"},
+        {"nombre": "GitHub Copilot", "url": "https://github.com/features/copilot"}
     ]
   },
   {
-    "prompt": "Haz un análisis SWOT para una empresa de cafés artesanales.",
-    "categoria": "negocios y estrategia",
+    "prompt": "Realiza un análisis FODA detallado para una cafetería artesanal ubicada en una zona urbana universitaria.",
+    "categorias": ["negocios y estrategia", "análisis de mercado"],
     "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      }
+        {"nombre": "ChatGPT", "url": "https://chat.openai.com/"}
     ]
   },
   {
-    "prompt": "Explica el código siguiente en términos sencillos y detecta posibles errores.",
-    "categoria": "análisis de código",
+    "prompt": "Analiza el siguiente bloque de código, explica su funcionalidad línea por línea y sugiere posibles mejoras o errores comunes.",
+    "categorias": ["análisis de código", "educación", "desarrollo de software"],
     "ias": [
-      {
-        "nombre": "Code Interpreter (ChatGPT Plus)",
-        "url": "https://chat.openai.com/"
-      },
-      {
-        "nombre": "Phind",
-        "url": "https://phind.com/"
-      }
+        {"nombre": "Code Interpreter (ChatGPT Plus)", "url": "https://chat.openai.com/"},
+        {"nombre": "Phind", "url": "https://phind.com/"}
     ]
   },
   {
-    "prompt": "Genera una imagen de un zorro con armadura samurái en un bosque nevado, estilo anime.",
-    "categoria": "generación de imágenes",
+    "prompt": "Genera una imagen hiperrealista de un zorro con armadura de samurái en un bosque nevado al amanecer, estilo anime con sombras detalladas.",
+    "categorias": ["generación de imágenes", "diseño creativo", "anime"],
     "ias": [
-      {
-        "nombre": "DALL·E",
-        "url": "https://openai.com/dall-e"
-      },
-      {
-        "nombre": "Leonardo AI",
-        "url": "https://leonardo.ai/"
-      }
+        {"nombre": "DALL·E", "url": "https://openai.com/dall-e"},
+        {"nombre": "Leonardo AI", "url": "https://leonardo.ai/"}
     ]
   },
   {
-    "prompt": "Simula una entrevista de trabajo para un puesto de desarrollador backend.",
-    "categoria": "simulación y entrevistas",
+    "prompt": "Simula una entrevista de trabajo para el rol de desarrollador backend, con preguntas técnicas y de comportamiento, y evalúa mis respuestas.",
+    "categorias": ["entrevistas", "desarrollo profesional", "educación"],
     "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      }
-    ]
-  },
-  {
-    "prompt": "Genera un plan de estudio de 30 días para aprender JavaScript desde cero.",
-    "categoria": "educación",
-    "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      },
-      {
-        "nombre": "Notion AI",
-        "url": "https://www.notion.so/product/ai"
-      }
-    ]
-  },
-  {
-    "prompt": "Convierte este texto informal en un comunicado oficial de prensa.",
-    "categoria": "reformulación de texto",
-    "ias": [
-      {
-        "nombre": "Wordtune",
-        "url": "https://www.wordtune.com/"
-      },
-      {
-        "nombre": "Jasper AI",
-        "url": "https://www.jasper.ai/"
-      }
-    ]
-  },
-  {
-    "prompt": "Crea un dashboard interactivo con Python y Streamlit usando este archivo CSV.",
-    "categoria": "análisis de datos",
-    "ias": [
-      {
-        "nombre": "ChatGPT (Code Interpreter)",
-        "url": "https://chat.openai.com/"
-      }
-    ]
-  },
-  {
-    "prompt": "Genera 5 ideas de negocio rentables para estudiantes universitarios en Latinoamérica.",
-    "categoria": "emprendimiento",
-    "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      }
-    ]
-  },
-  {
-    "prompt": "Crea una historia corta de ciencia ficción con un giro inesperado al final.",
-    "categoria": "escritura creativa",
-    "ias": [
-      {
-        "nombre": "Sudowrite",
-        "url": "https://www.sudowrite.com/"
-      },
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      }
-    ]
-  },
-  {
-    "prompt": "Crea un contrato simple de prestación de servicios para un diseñador freelance.",
-    "categoria": "legal",
-    "ias": [
-      {
-        "nombre": "DoNotPay",
-        "url": "https://donotpay.com/"
-      },
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      }
-    ]
-  },
-  {
-    "prompt": "Convierte este conjunto de datos en un gráfico de líneas con anotaciones.",
-    "categoria": "visualización de datos",
-    "ias": [
-      {
-        "nombre": "ChatGPT (Code Interpreter)",
-        "url": "https://chat.openai.com/"
-      }
-    ]
-  },
-  {
-    "prompt": "Escribe 3 versiones alternativas de este slogan para una marca de ropa urbana.",
-    "categoria": "branding y copywriting",
-    "ias": [
-      {
-        "nombre": "Copy.ai",
-        "url": "https://www.copy.ai/"
-      },
-      {
-        "nombre": "Jasper AI",
-        "url": "https://www.jasper.ai/"
-      }
-    ]
-  },
-  {
-    "prompt": "Haz una lista con los pros y contras de migrar a Canadá como programador.",
-    "categoria": "vida y decisiones personales",
-    "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      }
-    ]
-  },
-  {
-    "prompt": "Haz un análisis semántico de este texto y detecta sesgos de género.",
-    "categoria": "análisis lingüístico",
-    "ias": [
-      {
-        "nombre": "ChatGPT",
-        "url": "https://chat.openai.com/"
-      }
+        {"nombre": "ChatGPT", "url": "https://chat.openai.com/"}
     ]
   }
 ]

@@ -10,10 +10,9 @@ import type { PromptItem } from "@/types/prompt"
 
 interface PromptCardProps {
   prompt: PromptItem
-  delay: number // New prop for staggered animation
 }
 
-export function PromptCard({ prompt, delay }: PromptCardProps) {
+export function PromptCard({ prompt }: PromptCardProps) {
   const { toast } = useToast()
   const [isCopying, setIsCopying] = useState(false)
 
@@ -29,17 +28,20 @@ export function PromptCard({ prompt, delay }: PromptCardProps) {
 
   return (
     <Card
-      className="flex flex-col justify-between h-full transition-all duration-300 hover:shadow-lg hover:scale-[1.02] animate-slide-in-bottom"
-      style={{ animationDelay: `${delay}ms` }} // Apply staggered delay
+      className="flex flex-col justify-between h-full transition-all duration-300 hover:shadow-lg hover:scale-[1.02]"
     >
       <CardHeader>
         <CardTitle className="text-lg font-semibold">{prompt.prompt}</CardTitle>
       </CardHeader>
       <CardContent className="flex-grow">
         <div className="flex flex-wrap gap-2 mb-4">
-          <Badge variant="secondary" className="text-sm px-3 py-1 rounded-full">
-            {prompt.categoria}
-          </Badge>
+          {
+            prompt.categorias.map((categoria, index) => (
+              <Badge key={index} variant="secondary" className="text-sm px-3 py-1 rounded-full cursor-auto">
+                {categoria}
+              </Badge>
+            ))
+          }
         </div>
         <div className="text-sm text-muted-foreground">
           <h3 className="font-medium mb-2">Herramientas de IA sugeridas:</h3>

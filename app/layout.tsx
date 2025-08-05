@@ -59,7 +59,6 @@ export const metadata: Metadata = {
   },
   // Add a manifest for PWA capabilities [^1]
   manifest: "/manifest.json",
-    generator: 'v0.dev'
 }
 
 export default function RootLayout({

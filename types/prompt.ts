@@ -1,6 +1,6 @@
 export type PromptItem = {
   prompt: string
-  categoria: string
+  categorias: string[]
   ias: {
     nombre: string
     url: string
