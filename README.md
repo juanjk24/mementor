@@ -1,30 +1,9 @@
-# Mementor app design
+# Mementor 
 
-*Automatically synced with your [v0.dev](https://v0.dev) deployments*
+Tu mentor de prompts para cualquier IA
 
-[![Deployed on Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=for-the-badge&logo=vercel)](https://vercel.com/juan-cuellars-projects-68b5dc57/v0-mementor-app-design)
-[![Built with v0](https://img.shields.io/badge/Built%20with-v0.dev-black?style=for-the-badge)](https://v0.dev/chat/projects/A7CHRCSMpCo)
+Descubre prompts para potenciar tu creatividad y productividad
 
-## Overview
+link: https://mementor-eight.vercel.app
 
-This repository will stay in sync with your deployed chats on [v0.dev](https://v0.dev).
-Any changes you make to your deployed app will be automatically pushed to this repository from [v0.dev](https://v0.dev).
-
-## Deployment
-
-Your project is live at:
-
-**[https://vercel.com/juan-cuellars-projects-68b5dc57/v0-mementor-app-design](https://vercel.com/juan-cuellars-projects-68b5dc57/v0-mementor-app-design)**
-
-## Build your app
-
-Continue building your app on:
-
-**[https://v0.dev/chat/projects/A7CHRCSMpCo](https://v0.dev/chat/projects/A7CHRCSMpCo)**
-
-## How It Works
-
-1. Create and modify your project using [v0.dev](https://v0.dev)
-2. Deploy your chats from the v0 interface
-3. Changes are automatically pushed to this repository
-4. Vercel deploys the latest version from this repository
+<img width="1920" height="1080" alt="mementor" src="https://github.com/user-attachments/assets/37f4c1d2-c7b5-43d6-b2e2-f95bfd60b8eb" />
