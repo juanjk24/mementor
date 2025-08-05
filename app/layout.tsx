@@ -7,7 +7,7 @@ import type { Metadata } from "next"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  metadataBase: new URL("https://mementor.vercel.app"), // Replace with your actual domain
+  metadataBase: new URL("https://mementor-eight.vercel.app"),
   title: {
     default: "mementor - Tu mentor de prompts para cualquier IA",
     template: "%s | mementor",
@@ -27,11 +27,11 @@ export const metadata: Metadata = {
   openGraph: {
     title: "mementor - Tu mentor de prompts para cualquier IA",
     description: "Descubre y organiza los mejores prompts para tus herramientas de IA favoritas.",
-    url: "https://mementor.vercel.app",
+    url: "https://mementor-eight.vercel.app",
     siteName: "mementor",
     images: [
       {
-        url: "/placeholder.svg?height=630&width=1200", // Placeholder image for Open Graph
+        url: "/mementor.webp",
         width: 1200,
         height: 630,
         alt: "mementor logo",
@@ -44,7 +44,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "mementor - Tu mentor de prompts para cualquier IA",
     description: "Descubre y organiza los mejores prompts para tus herramientas de IA favoritas.",
-    images: ["/placeholder.svg?height=675&width=1200"], // Placeholder image for Twitter Card
+    images: ["/mementor.webp"],
   },
   robots: {
     index: true,
