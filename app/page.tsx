@@ -52,17 +52,17 @@ export default function HomePage() {
     <div className="min-h-screen bg-background text-foreground">
       <header className="container mx-auto px-4 py-4 flex justify-between items-center border-b border-border">
         <div className="flex flex-col">
-          <h1 className="text-4xl font-bold text-primary">mementor</h1>
+          <h1 className="text-4xl font-bold text-primary selection:bg-primary-foreground">mementor</h1>
         </div>
         <ThemeToggle />
       </header>
 
       <main className="container mx-auto px-4 py-8">
         <section className="mb-10 text-center">
-          <h2 className="text-5xl font-semibold mb-4 animate-fade-in-up animation-delay-400 duration-1000">
+          <h2 className="text-5xl font-semibold mb-4 animate-fade-in-up animation-delay-400 duration-1000 selection:bg-primary">
             Tu mentor de prompts para cualquier IA
           </h2>
-          <h3 className="text-2xl text-muted-foreground max-w-3xl mx-auto animate-fade-in-up animation-delay-600 duration-1000">
+          <h3 className="text-2xl text-muted-foreground max-w-3xl mx-auto animate-fade-in-up animation-delay-600 duration-1000 selection:bg-primary selection:text-white">
             Descubre prompts para potenciar tu creatividad y productividad
           </h3>
         </section>

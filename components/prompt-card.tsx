@@ -31,7 +31,7 @@ export function PromptCard({ prompt }: PromptCardProps) {
       className="flex flex-col justify-between h-full transition-all duration-300 hover:shadow-lg hover:scale-[1.02]"
     >
       <CardHeader>
-        <CardTitle className="text-lg font-semibold">{prompt.prompt}</CardTitle>
+        <CardTitle className="text-lg font-semibold selection:bg-primary">{prompt.prompt}</CardTitle>
       </CardHeader>
       <CardContent className="flex-grow">
         <div className="flex flex-wrap gap-2 mb-4">
